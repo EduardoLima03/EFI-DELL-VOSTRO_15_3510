@@ -11,3 +11,11 @@
   - Intel Wireless-AC 9462 Wireless Network Adapter
   - Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
 - SOM: Realtek ALC236 @ Intel Tiger Point-LP PCH - cAVS (Audio, Voice, Speech)
+
+## SMBIOS
+
+Type:         MacBookPro15,2
+Serial:       C02YQ9ZLJHCC
+Board Serial: C029203104NJH4RCB
+SmUUID:       D2868586-FF65-421A-8AF6-63B9FBFD7404
+Apple ROM:    7081EBF343C2
