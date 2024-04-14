@@ -11,6 +11,7 @@
   - Intel Wireless-AC 9462 Wireless Network Adapter
   - Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
 - SOM: Realtek ALC236 @ Intel Tiger Point-LP PCH - cAVS (Audio, Voice, Speech)
+- TRACKPAD: DELL0AB2
 
 ## SMBIOS
 
