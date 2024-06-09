@@ -15,8 +15,9 @@
 
 ## SMBIOS
 
-Type:         MacBookPro15,2
-Serial:       C02YQ9ZLJHCC
-Board Serial: C029203104NJH4RCB
-SmUUID:       D2868586-FF65-421A-8AF6-63B9FBFD7404
-Apple ROM:    7081EBF343C2
+- Type:         MacBookPro16,2
+
+## PROGRESSO
+[] BRILHO.
+[] TRACKPAD.
+[] WI-FI
