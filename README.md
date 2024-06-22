@@ -18,6 +18,10 @@
 - Type:         MacBookPro16,2
 
 ## PROGRESSO
-[] BRILHO.
-[] TRACKPAD.
-[] WI-FI
+- [ ] BRILHO.
+- [ ] TRACKPAD.
+- [x] USB Map
+- [x] WI-FI
+- [ ] SOM
+- [ ] Activit Iris ex
+- [ ] Bluetooth
